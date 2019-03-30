@@ -12,7 +12,6 @@ class TodoTest extends DuskTestCase
      * Test user registration process
      * Check whether the user is redirected to the dashboard
      * 
-     * @return void
      */
     public function testRegister()
     {
