@@ -1,2 +1,2 @@
 # ToDo-App-Laravel
-ToDo App in Laravel: Migrating Table, Creating Controllers &amp; Models
+A todo application created on Laravel 5.8 along with user authentication. Dusk browser testing implemented.
